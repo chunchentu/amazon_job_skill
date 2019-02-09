@@ -1,2 +1,3 @@
-# amazon_job_skill
-The Amazon Job Skill dataset
+# Amazon job skill dataset
+
+This dataset is imported from [Kaggle](https://www.kaggle.com/atahmasb/amazon-job-skills).
